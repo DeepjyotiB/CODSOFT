@@ -1,3 +1,4 @@
+#task 4
 import random
 
 def get_choice():
